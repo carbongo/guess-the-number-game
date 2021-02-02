@@ -1,0 +1,32 @@
+{
+    "key": {
+        "yes": "y",
+        "no": "n"
+    },
+    "introduction": "Hiya! So, here's the deal: I'll pick a number 0 to 100. Then you have to guess the secret number. If your guess is too high or low, you'll get a hint. Deal? (y/n)",
+    "ready": "Ok. Number is ready! I'm listening.",
+    "answer": {
+        "bigger": [
+            "Nope, try again. My number is bigger.",
+            "Wrong, the number is bigger.",
+            "No, it's greater than that.",
+            "Pardon me, but my number is greater than that."
+        ],
+        "smaller": [
+            "Nope, try again. My number is smaller.",
+            "Wrong, the number is smaller.",
+            "No, it's less than that.",
+            "Pardon me, but my number is less than that."
+        ],
+        "right": [
+            "Woah! That's the right number! Do you want to play it again? (y/n)",
+            "Oi-oi! You guessed it precisely! Do you want to play it again? (y/n)",
+            "Blimey! You're totally right! Do you want to play it again? (y/n)"
+        ]
+    },
+    "exit": [
+        "Alright. Cheers!",
+        "I hope I'll see you again!",
+        "Take care, mate!"
+    ]
+}
