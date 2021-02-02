@@ -1,0 +1,25 @@
+{
+  "name": "guess-the-number-game",
+  "version": "1.0.0",
+  "description": "Guess the secret number in the computer's mind. If your guess is too high or too low, you'll get a hint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbongo/guess-the-number-game.git"
+  },
+  "keywords": [
+    "guess",
+    "number",
+    "guess-the-number",
+    "game"
+  ],
+  "author": "carbongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbongo/guess-the-number-game/issues"
+  },
+  "homepage": "https://github.com/carbongo/guess-the-number-game#readme"
+}
