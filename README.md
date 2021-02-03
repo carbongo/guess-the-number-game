@@ -6,6 +6,8 @@ A simple 'guess the number' game on Node.js. With human-friendly interface.
 
 ## Initialisation
 
+> NOTE: Linking/unlinking may require *sudo* rights 
+
 Before use:
 ```bash
 npm link
