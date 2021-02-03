@@ -39,7 +39,7 @@ const number_is_ready = function() {
     targetNumber = Math.floor(Math.random() * Math.floor(101));
     rl.write(locale.ready + EOL);
     number_question();
-}
+};
 
 // READLINE QUESTION FUNCTION IF PLAYER IS READY
 const initialisation = function(line) {
