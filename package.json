@@ -1,5 +1,5 @@
 {
-  "name": "guess-the-number-game",
+  "name": "@carbongo/guess-the-number-game",
   "version": "1.0.0",
   "description": "Guess the secret number in the computer's mind. If your guess is too high or too low, you'll get a hint.",
   "main": "index.js",
