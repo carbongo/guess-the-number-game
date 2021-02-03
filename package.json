@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "bin": {
+    "guess-the-number-game": "index.js",
+    "gtng": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carbongo/guess-the-number-game.git"
